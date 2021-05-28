@@ -1,1 +1,2 @@
-The difference between tag and branch 
+The difference between tag and branch
+comparing V1.0 in main and dev
